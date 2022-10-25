@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,15 +48,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.content-bulk {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.content-bulk img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.content-bulk h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
